@@ -34,7 +34,7 @@ public class RegularTgriangle
  
             System.out.println();
  
-            //Incrementing the rowCount
+            //Incrementing the rowCount     
  
             rowCount++;
         }
